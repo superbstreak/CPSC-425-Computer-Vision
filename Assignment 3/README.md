@@ -1,5 +1,5 @@
 # CPSC-425-Computer-Vision
-Assignment 3: Face Detection in a Scaled Representation
+# Assignment 3: Face Detection in a Scaled Representation
 
 The purpose of this assignment is to implement and understand the use of normalized cross correlation for object detection in a scaled representation.
 
@@ -13,7 +13,7 @@ import ncc
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-#1
+#1 (0 point)
 The zip file containing ncc.py, sample images and a face template is hw3.zip. Download this file to your directory and unzip with the command 
 unzip hw3.zip
 Face template The face template we will use is in the file template.jpg and is shown at the right.
