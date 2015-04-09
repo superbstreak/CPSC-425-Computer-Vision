@@ -1,4 +1,8 @@
 # CPSC-425-Computer-Vision
+The purpose of this assignment is to understand and implement methods for shot boundary detection in a video sequence.
+
+The assignment
+
 In this assignment we'll detect shot boundaries in 151 frames from a well known cartoon (google “Snow White and the Seven Dwarfs Heigh Ho Song”). The images are from that video. Here are the seven dwarfs.
 
 Shot boundaries mark transitions between “shots.” A shot is a sequence of frames where the camera sees more or less the same scene. In this case, shot boundaries mark the transition from one dwarf to another.
